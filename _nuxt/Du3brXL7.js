@@ -92230,11 +92230,11 @@ function Sne() {
 }
 const Cne = px(Sne()),
   Ene = [
-    { title: "X", icon: "icon icon-x", url: "https://x.com/" },
+    { title: "X", icon: "icon icon-x", url: "https://x.com/AsterMascotDust/" },
     {
       title: "Telegram",
       icon: "icon icon-telegram",
-      url: "https://t.me/",
+      url: "https://t.me/asterdex_dust/",
     },
     // {
     //   title: "Coingecko",
