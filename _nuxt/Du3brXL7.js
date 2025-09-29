@@ -92244,7 +92244,7 @@ const Cne = px(Sne()),
     {
       title: "DEX Screener",
       icon: "icon icon-dexscreener",
-      url: "https://dexscreener.com/ethereum/0xcomingsoon",
+      url: "https://dexscreener.com/bsc/0x6dAd06eed8b054EFaDcc24b8045678e4f939b831",
     },
   ],
   Ane = { class: "header__nav" },
